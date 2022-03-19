@@ -8,6 +8,7 @@ This is a page showing ripple js library can do
 
 All required files are available  Just clone and Enjoy
 
+Read documentation to know how to adjust the effect to  your liking.
 
 ## live site can be viewed here
 https://peter-kimanzi.github.io/water-ripple-effect/
