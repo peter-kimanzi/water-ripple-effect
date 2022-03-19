@@ -1,0 +1,10 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+section{
+    background: url("pexels-mnz-1598505 (1).jpg");
+    width: 100%;
+    height: 100vh;
+}
