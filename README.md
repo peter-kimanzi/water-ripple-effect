@@ -10,3 +10,4 @@ All required files are available  Just clone and Enjoy
 
 
 ## live site can be viewed here
+https://peter-kimanzi.github.io/water-ripple-effect/
