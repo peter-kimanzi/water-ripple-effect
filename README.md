@@ -1,2 +1,2 @@
 # water-ripple-effect
-tutorial
+This is a page showing ripple js library can do
