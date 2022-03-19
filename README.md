@@ -6,3 +6,5 @@ This is a page showing ripple js library can do
 * ripple Js
 * HTML CSS
 
+All required files are available 
+
