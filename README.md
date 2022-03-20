@@ -3,7 +3,7 @@ This is a page showing what ripple js library can do
 
 ## Technologies used
 * JQUERY
-* Ripple Js
+* Ripple JS
 * HTML CSS
 
 All required files are available  Just clone and Enjoy
